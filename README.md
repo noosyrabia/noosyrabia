@@ -9,5 +9,5 @@ I love starting new projects, learning new technologies, and I'm always looking 
 - ⚡ Quotes: "A journey of a thousand miles begins with a single step🍃"
 -👨‍💻 All of my projects are available at: https://github.com/noosyrabia
 
-If you want to know more, check out my linkedIn profile :
+If you want to know more, check out my linkedIn profile : https://www.linkedin.com/in/nosy-rabia/
 
