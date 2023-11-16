@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Nosy 👋  a passionate web developer.
+### Welcome to my GitHub profile🌷. 
+I started learning to code this year. Check out my GitHub profile to see my progress.
+I love starting new projects, learning new technologies, and I'm always looking for new ways to work.
 
-<!--
-**noosyrabia/noosyrabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 I’m currently working on my portfolio and a full-stack blog project!
+- 🌱 I’m currently learning  React , MongoDB , Typescript, MySQL.
+- 👯 I’m looking to for a 12-month apprenticeship starting in January 2024.
+- ⚡ Quotes: "A journey of a thousand miles begins with a single step🍃"
+-👨‍💻 All of my projects are available at: https://github.com/noosyrabia
 
-Here are some ideas to get you started:
+If you want to know more, check out my linkedIn profile :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
