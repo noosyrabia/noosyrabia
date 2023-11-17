@@ -1,4 +1,4 @@
-## Hi, I'm Nosy 👋  a passionate web developer.
+## Hi, I'm Nosy 👋
 ### Welcome to my GitHub profile🌷. 
 I started learning to code this year. Check out my GitHub profile to see my progress.
 I love starting new projects, learning new technologies, and I'm always looking for new ways to work.
